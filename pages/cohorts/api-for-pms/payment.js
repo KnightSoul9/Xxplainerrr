@@ -51,10 +51,10 @@ const TechBuyPage = () => {
                 </h2>
               </div>
               <h2 className="text-3xl font-semibold text-[#101828DE] lg:mt-1 ">
-                you are shortlisted for Tech For PM cohort.
+                you are shortlisted for APIs For PM cohort.
               </h2>
               <p className="py-2">
-                Do you know? Tech For PM cohort has only 61% acceptance rate.
+                Do you know? APIs For PM cohort has only 61% acceptance rate.
                 Well done!
               </p>
             </div>
@@ -78,17 +78,14 @@ const TechBuyPage = () => {
                 </div>
                 <ul className="py-2 pl-10">
                   <li style={{ listStyleType: "disc" }} className="pb-1">
-                    {" "}
-                    Technical knowledge is a must have for Fintech & Platform
-                    Product Managers{" "}
+                    {" "}API knowledge is a must have for Fintech, Platform Product & FAANG Product Managers{" "}
                   </li>
                   <li style={{ listStyleType: "disc" }} className="pb-1">
                     PMs with technical knowledge are 37% more likely to
                     transition into leadership role{" "}
                   </li>
                   <li style={{ listStyleType: "disc" }} className="pb-1">
-                    New emerging field like Generative Al has huge demand of
-                    technical PM
+                  APIs are the bread and butter of modern software development
                   </li>
                   <li style={{ listStyleType: "disc" }} className="pb-1">
                     Above all, Sundar Pichai was a tech PM who built Google
