@@ -99,7 +99,7 @@ const Apiforpms = ({ course }) => {
                       with ease
                     </strong>{" "}
                     <br />
-                    <p>Start 2024 with a learning commitment. Enroll now</p>
+                    <p>Start 2025 with a learning commitment. Enroll now</p>
                   </div>
                 </div>
                 <div className="mr-8 flex justify-between space-x-5">

@@ -12,6 +12,7 @@ export const SITEMAP_URL = [
   "https://www.xplainerr.com/courses/pricing-for-pm",
   "https://www.xplainerr.com/courses/ux-writing",
   "https://www.xplainerr.com/cohorts/tech-for-product-managers",
+  "https://www.xplainerr.com/cohorts/api-for-pms",
 
   // blog pages
   "https://www.xplainerr.com/blog",
