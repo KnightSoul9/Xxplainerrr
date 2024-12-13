@@ -1,7 +1,7 @@
 import Image from "next/image";
 import TypeWriter from "./TypeWriter";
 import Link from "next/link";
-import TechForPmsImage from "./assets/banner.png";
+import TechForPmsImage from "./assets/banner2.png";
 
 const Names = [
   {
@@ -41,7 +41,7 @@ const Banner = () => {
                 <div className="blink-dot relative h-5 w-5 rounded-[100%] bg-[#C7373766]">
                   <div className="absolute left-[51.5%] top-[4px] h-3 w-3 -translate-x-1/2 transform rounded-[100%] bg-[#C73737]"></div>
                 </div>
-                <p className="">2 DAY LIVE SESSIONS</p>
+                <p className="">2-DAY LIVE SESSIONS</p>
               </div>
               <h2 className="mb-4 py-5 text-3xl font-bold lg:text-[42px] lg:leading-[48px]">
                 Confused by APIs as a Product Manager? In meetings or while

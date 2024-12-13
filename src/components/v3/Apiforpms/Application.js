@@ -36,19 +36,22 @@ const Application = () => {
               <ul className="py-2 pl-10">
                 <li style={{ listStyleType: "disc" }} className="pb-1">
                   {" "}
-                  Tech 101{" "}
+                  Why & what of APIs{" "}
                 </li>
                 <li style={{ listStyleType: "disc" }} className="pb-1">
-                  Everything about databases{" "}
+                Understand requests, response, endpoints etc.{" "}
                 </li>
                 <li style={{ listStyleType: "disc" }} className="pb-1">
-                  AI & LLM
+                Postman live demo & hands-on exercise
                 </li>
                 <li style={{ listStyleType: "disc" }} className="pb-1">
                   APIs & Webhooks
                 </li>
                 <li style={{ listStyleType: "disc" }} className="pb-1">
-                  System Design
+                API security - Oauth, rate limiting & more
+                </li>
+                <li style={{ listStyleType: "disc" }} className="pb-1">
+                Designing APIs like a Stripe PM 
                 </li>
                 <li style={{ listStyleType: "disc" }} className="pb-1">
                   Working with engineering team
