@@ -49,8 +49,8 @@ const Apiforpms = ({ course }) => {
   return (
     <>
       <CommonHead
-        title={"Xplainerr | Tech For Product Managers"}
-        description={"Tech For Product Managers"}
+        title={"Xplainerr | APIs For Product Managers"}
+        description={"APIs For Product Managers"}
         favIcon={"/favicon.ico"}
       />
 
@@ -62,7 +62,7 @@ const Apiforpms = ({ course }) => {
           slug={"tech-for-product-managers"}
         />
         <Questions />
-        <Reviews courseSlug={"tech-for-product-managers"} />
+        <Reviews courseSlug={"api-for-pm"} />
         <Authors
           data={course?.instructors}
           courseSlug={"/cohorts/tech-for-product-managers"}

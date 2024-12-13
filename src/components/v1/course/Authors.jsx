@@ -101,7 +101,8 @@ const AuthorView = ({ author, courseSlug }) => {
             </a>
           </div>
         </div>
-        {router.pathname == "/cohorts/tech-for-product-managers" ? (
+        {router.pathname == "/cohorts/tech-for-product-managers" ||
+        router.pathname == "/cohorts/api-for-pms" ? (
           <div>
             <p className="text-md lg:text-md mb-8 text-gray-800">
               Venkatesh is currently working as a Product Manager 2 @ Razorpay.
