@@ -1,7 +1,7 @@
 import Image from "next/image";
 import TypeWriter from "./TypeWriter";
 import Link from "next/link";
-import TechForPmsImage from "./assets/banner2.png";
+import TechForPmsImage from "./assets/Banner2.png";
 
 const Names = [
   {
